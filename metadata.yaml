@@ -1,0 +1,29 @@
+_repo: The-Art-of-Iugling-or-Legerdemaine--13-Wherein-is-Deciphered-All-the-Conueyances-of-Legerdema__12343
+_version: 0.0.1
+alternative_title: Art of juggling or legerdemain
+creator:
+  author:
+    agent_name: Rid, Samuel
+    gutenberg_agent_id: '4326'
+    url: http://www.gutenberg.org/2009/agents/4326
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Juggling -- Early works to 1800'
+- !lcsh 'Magic tricks -- Early works to 1800'
+- GITenberg
+title: "The Art of Iugling or Legerdemaine\r\nWherein is Deciphered All the Conueyances\
+  \ of Legerdemaine and Iugling, How They Are Effected, and Wherin They Chiefly Consist;\
+  \ Cautions to Beware of Cheating at Cardes and Dice, the Detection of the Beggerly\
+  \ Art of Alcumistry, and the Foppery of Foolish Cousoning Charmes, All Tending to\
+  \ Mirth and Recreation, Especially for Those That Desire to Haue the Insight and\
+  \ Priuate Practise Thereof"
+url: http://www.gutenberg.org/ebooks/12343
